@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,45:5B21B6,100:2563EB&height=210&section=header&text=AI%20AIR%20CANVAS&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Draw%20with%20hand%20gestures&descAlignY=60&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:134E4A,50:0D9488,100:7DD3FC&height=210&section=header&text=AI%20AIR%20CANVAS&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Draw%20with%20hand%20gestures&descAlignY=60&descSize=16" width="100%" />
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
